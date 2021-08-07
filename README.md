@@ -2,5 +2,8 @@
 
 ### [📖포스팅 Blog](https://yjs-program.tistory.com/)
 
-- (1) [Git & GitHub Page](./Git) /[포스팅](https://yjs-program.tistory.com/187)
+- (1) [Git & GitHub Page](./Git) /
+   - [1. Git 기초](https://yjs-program.tistory.com/187)
+   - [2. GitHub 실습(1) / 3. GitHub 실습(2)](https://yjs-program.tistory.com/188)
+   - [4. GitHub page 응용](https://yjs-program.tistory.com/189)
 
